@@ -6,6 +6,7 @@ Supervised by: Dr. Fernando González
 
 December 9, 2021
 
+![image](https://user-images.githubusercontent.com/21689731/228671567-dd040e9c-5351-425b-87c8-40b6cdf1d6a7.png)
 
 
 I. Background
